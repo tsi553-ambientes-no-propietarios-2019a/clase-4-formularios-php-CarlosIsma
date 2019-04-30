@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<h1>Ejercicio 9</h2>
+</head>
+<body>
+
+</body>
+</html>
+
 <?php
 /*
 - Escribir una página en PHP que presente un calendario del mes actual.
