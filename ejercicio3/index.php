@@ -12,3 +12,28 @@
  */
 
 ?>
+
+
+
+<html>
+<cabeza>
+<h1>Bievenido Formulario </h1>
+</cabeza>
+<cuerpo>
+
+<form  action = "acceso.php"  method = "post">
+User Name:
+<input  type = "text"  name = "user">
+<br>
+<br>
+<br>
+Password:
+<tipo de entrada  = "pass" nombre = "password"> 
+<input  type = " submit "  name = "Aceptar">
+</form>
+<br>
+<br>
+<br>
+<input type="button" value="validar">
+</cuerpo>
+</html>
