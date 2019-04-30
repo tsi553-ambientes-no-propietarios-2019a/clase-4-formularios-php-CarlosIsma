@@ -11,3 +11,30 @@
  * "Las contrseñas no coinciden".
  */
 ?>
+
+<html> 
+  <head> 
+  <h1>Validación De Contraseña</h1> 
+  </head> 
+  <body>
+  <form method="post" action="validarRegistro.php"> 
+   User Name: 
+  <input type="text" name="user"> 
+  <br>
+   <br>
+    <br>
+Password:
+<input type="password" name="pass1">
+<br>
+ <br>
+  <br>
+   <br>
+Repeat Password:
+<input type="password" name="pass2">
+<br>
+ <br>
+  <br>
+  <input type="submit" center value="Validar"> 
+  </form>
+</body> 
+</html>
